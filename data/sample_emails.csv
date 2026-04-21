@@ -1,0 +1,31 @@
+email_id,sender,subject,date,body,label
+E001,jobs@linkedin.com,New Data Scientist role at Amazon,2026-03-10,"Amazon is hiring a Data Scientist Intern in Boston. Apply here: https://amazon.jobs/example1 Deadline: March 25, 2026.",relevant
+E002,careers@google.com,Software Engineering Internship Opportunity,2026-03-11,"Google Careers has opened applications for Software Engineering Intern roles in Mountain View. Apply here: https://careers.google.com/example2",relevant
+E003,newsletter@university.edu,Campus Events This Week,2026-03-11,"Join us for food, music, and networking at the student center this Friday.",irrelevant
+E004,alerts@indeed.com,Data Analyst role in New York,2026-03-12,"A new Data Analyst position is available in New York at Deloitte. Apply here: https://indeed.com/example3",relevant
+E005,noreply@shop.com,Big Spring Sale is Live,2026-03-12,"Get 40 percent off on all items this weekend only.",irrelevant
+E006,careers@microsoft.com,AI Engineer Internship Opening,2026-03-13,"Microsoft is hiring an AI Engineer Intern in Redmond. Deadline: April 2, 2026. Apply: https://careers.microsoft.com/example4",relevant
+E007,internships@tesla.com,Machine Learning Internship,2026-03-13,"Tesla has opened applications for a Machine Learning Internship in Palo Alto. Apply now: https://tesla.com/example5",relevant
+E008,updates@bank.com,Your monthly statement is ready,2026-03-13,"Your account summary for February is now available online.",irrelevant
+E009,careers@netflix.com,Data Science New Grad Role,2026-03-14,"Netflix is hiring for a Data Science New Grad role in Los Gatos. Apply here: https://jobs.netflix.com/example6",relevant
+E010,hr@startup.io,Backend Developer Position,2026-03-14,"We are hiring a Backend Developer in remote mode. Experience with Python required. Apply: https://startup.io/example7",relevant
+E011,alerts@linkedin.com,Reminder: Apply for Data Scientist Intern at Amazon,2026-03-15,"Reminder: the Data Scientist Intern role at Amazon in Boston is still open. Apply here: https://amazon.jobs/example1 Deadline: March 25, 2026.",relevant
+E012,careers@meta.com,Machine Learning Engineer Internship,2026-03-15,"Meta is hiring a Machine Learning Engineer Intern in Menlo Park. Apply here: https://careers.meta.com/example12 Deadline: April 10, 2026.",relevant
+E013,events@university.edu,Resume Workshop Next Tuesday,2026-03-15,"Join the career center for a resume workshop and LinkedIn review session next Tuesday.",irrelevant
+E014,alerts@indeed.com,Remote Data Analyst role at Spotify,2026-03-16,"Spotify is hiring a Remote Data Analyst. Apply here: https://indeed.com/example14 Deadline: April 5, 2026.",relevant
+E015,promotions@store.com,Flash Sale on Electronics,2026-03-16,"Huge savings on laptops and headphones through Sunday only.",irrelevant
+E016,careers@apple.com,AI and Machine Learning Internship Opportunity,2026-03-16,"Apple is hiring an AI and Machine Learning Intern in Cupertino. Apply here: https://jobs.apple.com/example16 Deadline: April 8, 2026.",relevant
+E017,internships@nvidia.com,Deep Learning Internship,2026-03-17,"NVIDIA is hiring a Deep Learning Intern in Santa Clara. Apply here: https://nvidia.com/example17",relevant
+E018,newsletter@bank.com,Important account update,2026-03-17,"We have updated our privacy policy and terms of service.",irrelevant
+E019,careers@uber.com,Data Science Internship - Remote,2026-03-17,"Uber is hiring a Data Science Intern in Remote mode. Apply here: https://uber.com/example19 Deadline: March 30, 2026.",relevant
+E020,hr@startupx.ai,Junior Machine Learning Engineer Position,2026-03-18,"StartupX AI is hiring a Junior Machine Learning Engineer in New York. Apply here: https://startupx.ai/example20",relevant
+E021,careers@salesforce.com,Software Engineer New Graduate Role,2026-03-18,"Salesforce is hiring a Software Engineer New Graduate in San Francisco. Apply here: https://salesforce.com/example21 Deadline: April 12, 2026.",relevant
+E022,alerts@glassdoor.com,Business Analyst position at Accenture,2026-03-18,"Accenture has a Business Analyst position in Chicago. Apply now: https://glassdoor.com/example22",relevant
+E023,noreply@foodapp.com,Your weekly rewards summary,2026-03-18,"You earned 220 points this week. Redeem now in the app.",irrelevant
+E024,internships@adobe.com,Data Science Internship Opening,2026-03-19,"Adobe is hiring a Data Science Intern in San Jose. Deadline: April 6, 2026. Apply here: https://adobe.com/example24",relevant
+E027,careers@airbnb.com,Data Scientist Full-Time Role,2026-03-20,"Airbnb is hiring a Data Scientist in Remote mode. Apply here: https://airbnb.com/example27 Deadline: April 15, 2026.",relevant
+E025,career@oracle.com,Cloud Engineering Internship,2026-03-19,"Oracle is hiring a Cloud Engineering Intern in Austin. Apply here: https://oracle.com/example25",relevant
+E026,events@hackathon.org,Registration open for Artificial Intelligence Hackathon,2026-03-19,"Compete with students across the country in an artificial intelligence hackathon this month.",irrelevant
+E028,alerts@linkedin.com,Application deadline approaching for Adobe Data Science Intern,2026-03-20,"Deadline approaching for Adobe Data Science Intern in San Jose. Apply here: https://adobe.com/example24 Deadline: April 6, 2026.",relevant
+E029,careers@snap.com,Computer Vision Internship,2026-03-20,"Snap is hiring a Computer Vision Intern in Los Angeles. Apply now: https://snap.com/example29",relevant
+E030,newsletter@travel.com,Top destinations for summer 2026,2026-03-20,"Explore budget-friendly destinations and travel tips for your next trip.",irrelevant
